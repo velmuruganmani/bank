@@ -3,8 +3,8 @@
 URL: http://localhost:8080/atm/api/atm-details/
 Method: GET 
 Body:{
-"url":"https://api.lloydsbank.com/open-banking/v2.2/atms",
-"identification":"LFDCEC11"
+"url":"get-atms-2.2 api url",
+"identification":"identification name"
 }
 2. Logging: SLF4J
 3. OpenAPI Swagger URL:
